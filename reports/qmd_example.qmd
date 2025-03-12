@@ -4,6 +4,7 @@ author: "Tiffany Timbers & Jordan Bourak"
 format:
   html:
     tbl-cap-location: top
+    embed-resources: true
   pdf:
     tbl-cap-location: top
 editor: source
