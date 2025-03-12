@@ -1,5 +1,7 @@
 ## DSCI 310 individual assignment on Quarto reproducible reports using R
 
+docs has my html file with embedded images to make the git hub pages site and reports has my pdf and html reports.
+
 This is my edit to the template repository 
 for the individual assignment on Quarto reproducible reports using R
 from the DSCI 310 (Trustworthy workflows for data science) course.
