@@ -1,6 +1,6 @@
 ## DSCI 310 individual assignment on Quarto reproducible reports using R
 
-This is a template repository 
+This is my edit to the template repository 
 for the individual assignment on Quarto reproducible reports using R
 from the DSCI 310 (Trustworthy workflows for data science) course.
 Instructions for this assignment can be found on the DSCI 310 course website 
